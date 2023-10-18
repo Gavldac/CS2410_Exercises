@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{67CB3E37-F698-467A-8270-9AFBA8D38ACD}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleGUI FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Exercises PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

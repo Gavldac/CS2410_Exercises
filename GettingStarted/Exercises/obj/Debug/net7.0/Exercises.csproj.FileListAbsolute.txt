@@ -1,0 +1,15 @@
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/obj/Debug/net7.0/Exercises.csproj.AssemblyReference.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/obj/Debug/net7.0/Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/obj/Debug/net7.0/Exercises.AssemblyInfoInputs.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/obj/Debug/net7.0/Exercises.AssemblyInfo.cs
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/obj/Debug/net7.0/Exercises.csproj.CoreCompileInputs.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/bin/Debug/net7.0/Exercises
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/bin/Debug/net7.0/Exercises.deps.json
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/bin/Debug/net7.0/Exercises.runtimeconfig.json
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/bin/Debug/net7.0/Exercises.dll
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/bin/Debug/net7.0/Exercises.pdb
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/obj/Debug/net7.0/Exercises.dll
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/obj/Debug/net7.0/refint/Exercises.dll
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/obj/Debug/net7.0/Exercises.pdb
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/obj/Debug/net7.0/Exercises.genruntimeconfig.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/obj/Debug/net7.0/ref/Exercises.dll
