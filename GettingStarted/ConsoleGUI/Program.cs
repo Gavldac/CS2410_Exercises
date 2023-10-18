@@ -5,8 +5,8 @@ using System.Drawing;
 Console.WriteLine("Console GUI");
 
 int size = 10; //Number of rows in the square
-int topMargin = 5;
-int leftMargin = 10;
+int topMargin = 5; //Margin to move the squares down from title
+int leftMargin = 10; //Margin to push the squares to the right, away from the left edge
 //ConsoleColor color = ConsoleColor.Blue; //Set the initial background color
 
 //Save background
