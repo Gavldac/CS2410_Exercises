@@ -1,0 +1,15 @@
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/bin/Debug/net7.0/HorseRace
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/bin/Debug/net7.0/HorseRace.deps.json
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/bin/Debug/net7.0/HorseRace.runtimeconfig.json
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/bin/Debug/net7.0/HorseRace.dll
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/bin/Debug/net7.0/HorseRace.pdb
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/obj/Debug/net7.0/HorseRace.csproj.AssemblyReference.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/obj/Debug/net7.0/HorseRace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/obj/Debug/net7.0/HorseRace.AssemblyInfoInputs.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/obj/Debug/net7.0/HorseRace.AssemblyInfo.cs
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/obj/Debug/net7.0/HorseRace.csproj.CoreCompileInputs.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/obj/Debug/net7.0/HorseRace.dll
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/obj/Debug/net7.0/refint/HorseRace.dll
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/obj/Debug/net7.0/HorseRace.pdb
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/obj/Debug/net7.0/HorseRace.genruntimeconfig.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/obj/Debug/net7.0/ref/HorseRace.dll

@@ -1,0 +1,15 @@
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/bin/Debug/net7.0/Quote
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/bin/Debug/net7.0/Quote.deps.json
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/bin/Debug/net7.0/Quote.runtimeconfig.json
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/bin/Debug/net7.0/Quote.dll
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/bin/Debug/net7.0/Quote.pdb
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/obj/Debug/net7.0/Quote.csproj.AssemblyReference.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/obj/Debug/net7.0/Quote.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/obj/Debug/net7.0/Quote.AssemblyInfoInputs.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/obj/Debug/net7.0/Quote.AssemblyInfo.cs
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/obj/Debug/net7.0/Quote.csproj.CoreCompileInputs.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/obj/Debug/net7.0/Quote.dll
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/obj/Debug/net7.0/refint/Quote.dll
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/obj/Debug/net7.0/Quote.pdb
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/obj/Debug/net7.0/Quote.genruntimeconfig.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Quote/obj/Debug/net7.0/ref/Quote.dll
