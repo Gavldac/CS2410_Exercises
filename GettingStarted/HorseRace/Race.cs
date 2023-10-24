@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Runtime.Intrinsics.X86;
+
 namespace HorseRace
 {
 	/// <summary>
@@ -14,30 +16,75 @@ namespace HorseRace
 
 		public void Start()
 		{
-			Lane lane1 = new Lane(8, 4, 40, ConsoleColor.Blue );
-			Lane lane2 = new Lane(8, 6, 40);
+			Console.CursorVisible = false;
+
+			// paint title
+			Console.SetCursorPosition(8,2);
+			Console.ForegroundColor = ConsoleColor.Gray;
+			Console.Write("H O R S E  R A C E ");
+
+			Lane lane1 = new Lane(8, 4, 40, ConsoleColor.Blue);
+			Lane lane2 = new Lane(8, 6, 40, ConsoleColor.Blue);
+			Lane lane3 = new Lane(8, 8, 40, ConsoleColor.Blue);
 
 			lane1.Paint();
 			lane2.Paint();
+			lane3.Paint();
 
-			RaceHorse horse1 = new RaceHorse("Maple", ConsoleColor.Yellow, lane1);
-			horse1.StartPosition();
+			RaceHorse[] horses =
+			{
+			new RaceHorse("Maple", ConsoleColor.Yellow, lane1),
+			new RaceHorse("Alpo", ConsoleColor.Cyan, lane2),
+			new RaceHorse("Moss", ConsoleColor.Magenta, lane3)
+			};
 
-			RaceHorse horse2 = new RaceHorse("Alpo", ConsoleColor.Magenta, lane2);
-			horse2.StartPosition();
+        foreach (RaceHorse h in horses)
+			{
+				h.StartPosition();
+			}
 
-			//Maple is or is not finished
-			Console.CursorTop = 8;
+
+
+            for (int i = 0; i < 15; i++)
+			//while ( !Done(horses) )
+			{    
+                foreach(RaceHorse h in horses)
+				{
+					h.Move();
+				}
+                Thread.Sleep(1000);
+            }
+
+
+            
+            Console.CursorTop = 8;
 			Console.CursorLeft = 8;
+
+			
 			Console.ResetColor();
-			Console.WriteLine($"{horse1.Name} {(horse1.Finished() ?
-				"is" : "is not")} finished");
 
-			Console.CursorLeft = 8;
-            Console.WriteLine($"{horse2.Name} {(horse2.Finished() ?
-				"is" : "is not")} finished");
+			foreach (RaceHorse h in horses)
+			{
+
+
+			}
+           
+            Console.SetCursorPosition(8, 2);
+			Console.ResetColor();
+            Console.ForegroundColor = ConsoleColor.Gray;
+            Console.Write("FINISHED!!!");
 
         }
+
+		private bool Done(RaceHorse[] horses)
+		{
+			foreach(RaceHorse h in horses)
+			{
+				if (!h.Finished())
+					return false;
+			}
+			return true;
+		}
 	}
 }
 

@@ -31,8 +31,6 @@ namespace HorseRace
 			Console.CursorLeft = StartLeft;
 			Console.CursorTop = StartTop;
 			Console.Write(new String(' ', Length));
-
-			
 		}
 	}
 }

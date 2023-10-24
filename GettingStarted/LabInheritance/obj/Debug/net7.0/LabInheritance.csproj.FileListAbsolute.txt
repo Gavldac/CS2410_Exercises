@@ -1,0 +1,15 @@
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/bin/Debug/net7.0/LabInheritance
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/bin/Debug/net7.0/LabInheritance.deps.json
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/bin/Debug/net7.0/LabInheritance.runtimeconfig.json
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/bin/Debug/net7.0/LabInheritance.dll
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/bin/Debug/net7.0/LabInheritance.pdb
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/obj/Debug/net7.0/LabInheritance.csproj.AssemblyReference.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/obj/Debug/net7.0/LabInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/obj/Debug/net7.0/LabInheritance.AssemblyInfoInputs.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/obj/Debug/net7.0/LabInheritance.AssemblyInfo.cs
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/obj/Debug/net7.0/LabInheritance.csproj.CoreCompileInputs.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/obj/Debug/net7.0/LabInheritance.dll
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/obj/Debug/net7.0/refint/LabInheritance.dll
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/obj/Debug/net7.0/LabInheritance.pdb
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/obj/Debug/net7.0/LabInheritance.genruntimeconfig.cache
+/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/obj/Debug/net7.0/ref/LabInheritance.dll

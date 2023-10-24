@@ -1,30 +1,32 @@
-﻿<Properties StartupConfiguration="{633C13BF-E9D5-40FC-A551-99030BD026B3}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Quote/Program.cs">
+﻿<Properties StartupConfiguration="{3B9E59E5-82B3-498B-AB9E-D89402067ED9}|Default">
+  <MonoDevelop.Ide.ItemProperties.GettingStarted PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HorseRace PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LabInheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HorseRace/Race.cs">
     <Files>
-      <File FileName="Quote/Program.cs" Line="2" Column="89" />
-      <File FileName="HorseRace/Lane.cs" Line="26" Column="7" />
+      <File FileName="HorseRace/RaceHorse.cs" />
+      <File FileName="HorseRace/Race.cs" Line="56" Column="14" />
+      <File FileName="HorseRace/Program.cs" Line="1" Column="1" />
+      <File FileName="HorseRace/Lane.cs" Line="33" Column="43" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Exercises" expanded="True">
-            <Node name="ConsoleGUI" expanded="True" />
-            <Node name="Quote">
-              <Node name="Program.cs" selected="True" />
+            <Node name="HorseRace" expanded="True">
+              <Node name="Race.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Quote PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.GettingStarted PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleGUI PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Quote PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.HorseRace PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.ConsoleGUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>

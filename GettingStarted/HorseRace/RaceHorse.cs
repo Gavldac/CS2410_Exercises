@@ -14,6 +14,7 @@ namespace HorseRace
 		private int stride;//Length of the horses stride
 		private Lane lane;
 		private int left; //Current left position
+		private static readonly Random rand = new Random();
 
 		public RaceHorse(string name, ConsoleColor color, Lane lane  )
 		{
@@ -33,14 +34,32 @@ namespace HorseRace
 			Console.CursorTop = lane.StartTop;
 			Console.CursorLeft = left;
 			Console.BackgroundColor = Color;
-
 			Console.Write(' ');
 		}
 
 		public void Move()
 		{
+			Console.CursorLeft = left;
+			Console.CursorTop = lane.StartTop;
+			Console.BackgroundColor = lane.Color;
+			Console.Write(' ');
 
-		}
+
+			//update left
+			left = Math.Min(left + stride, lane.StartLeft + lane.Length);
+
+
+
+			//draw new position
+			Console.CursorLeft = left;
+			Console.BackgroundColor = Color;
+			Console.Write(' ');
+
+			// check for end of track
+			//Finished(Console.CursorLeft == lane.Length);
+			Finished();
+
+        }
 
 		public bool Finished()
 		{
