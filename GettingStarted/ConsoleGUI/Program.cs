@@ -5,7 +5,7 @@ using System.Drawing;
 Console.WriteLine("Console GUI");
 
 //Parameters for the square:
-int size = 2; //Number of rows in the square
+int size = 15; //Number of rows in the square
 int topMargin = 5; //Margin to move the squares down from title
 int leftMargin = 5; //Margin to push the squares to the right, away from the left edge
 

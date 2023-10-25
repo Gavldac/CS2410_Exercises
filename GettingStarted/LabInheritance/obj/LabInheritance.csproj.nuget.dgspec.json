@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/LabInheritance.csproj": {}
+    "/home/gavldac/git/CS2410_Exercises/GettingStarted/LabInheritance/LabInheritance.csproj": {}
   },
   "projects": {
-    "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/LabInheritance.csproj": {
+    "/home/gavldac/git/CS2410_Exercises/GettingStarted/LabInheritance/LabInheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/LabInheritance.csproj",
+        "projectUniqueName": "/home/gavldac/git/CS2410_Exercises/GettingStarted/LabInheritance/LabInheritance.csproj",
         "projectName": "LabInheritance",
-        "projectPath": "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/LabInheritance.csproj",
-        "packagesPath": "/Users/gavldac/.nuget/packages/",
-        "outputPath": "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/obj/",
+        "projectPath": "/home/gavldac/git/CS2410_Exercises/GettingStarted/LabInheritance/LabInheritance.csproj",
+        "packagesPath": "/home/gavldac/.nuget/packages/",
+        "outputPath": "/home/gavldac/git/CS2410_Exercises/GettingStarted/LabInheritance/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/gavldac/.nuget/NuGet/NuGet.Config"
+          "/home/gavldac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

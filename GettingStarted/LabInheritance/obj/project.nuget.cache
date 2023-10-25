@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rE8R5PbeGNwutokNRqJAoL7L6AxGoyRgQ4hlA6e0F17/HivzVOPkDbywxe4bDlP8uYAvYBnZlBFSzEvk/liEyA==",
+  "dgSpecHash": "3iGpS0r6iytBafPYhLLFgwvh3T4+egLFp/FerSuStxPtfZBZ5oOZ3XbOVk5bLeq5uFB8EVvYEC/Xkpdr/XreZw==",
   "success": true,
-  "projectFilePath": "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/LabInheritance/LabInheritance.csproj",
+  "projectFilePath": "/home/gavldac/git/CS2410_Exercises/GettingStarted/LabInheritance/LabInheritance.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

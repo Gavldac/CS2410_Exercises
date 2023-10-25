@@ -9,5 +9,5 @@ race.Start();
 //=========================
 Console.ResetColor();
 //Console.BackgroundColor = ConsoleColor.Black;
-Console.CursorTop = 13;
+Console.CursorTop = 30;
 Console.ForegroundColor = ConsoleColor.Black;

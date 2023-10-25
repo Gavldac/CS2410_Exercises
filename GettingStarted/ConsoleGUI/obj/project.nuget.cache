@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nRVOfW/jd/bf49DH9q8p6/HzfhnvUOqeBdaTCP8sbn01a5oy2yW1Ks2dMIur8gD5SOK7TSxaQcz/If2cR29JPg==",
+  "dgSpecHash": "UOYZerDCDsYmZCFHe38gEKerTOOIIN6+jFlUJtuW+X35zwMPfMLGsGbjjWPlHKLWUmncS4PssAEodJ7FyOc7cA==",
   "success": true,
-  "projectFilePath": "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/ConsoleGUI/ConsoleGUI.csproj",
+  "projectFilePath": "/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/ConsoleGUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

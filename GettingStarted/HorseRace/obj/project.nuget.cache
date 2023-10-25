@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4uaCP6QLV7bI2SO/YvjBUDVzyZzEX2NR9xX6QhZ53E3xjS16imPx2Sxm5VBA2+Az67HlSpHX2A+sMoc5WiID5w==",
+  "dgSpecHash": "DTaTtlEcphgdYDqik3XPTFW36kW+EawQ9GmWnDWysLxAV/9aS8I8IhaDk4fC2fwUHkDbVyNYaXvRyufL3pHgVg==",
   "success": true,
-  "projectFilePath": "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/HorseRace.csproj",
+  "projectFilePath": "/home/gavldac/git/CS2410_Exercises/GettingStarted/HorseRace/HorseRace.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

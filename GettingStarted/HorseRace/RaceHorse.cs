@@ -15,14 +15,14 @@ namespace HorseRace
 		private Lane lane;
 		private int left; //Current left position
 		private static readonly Random rand = new Random();
-
+		
 		public RaceHorse(string name, ConsoleColor color, Lane lane  )
 		{
 			Name = name;
 			Color = color;
 			this.lane = lane;
 
-			Random rand = new Random();
+			//Random rand = new Random();
 			stride = rand.Next(1, 7);// random numbr - upper bound exclusive
 
 			left = lane.StartLeft;
@@ -39,13 +39,14 @@ namespace HorseRace
 
 		public void Move()
 		{
+			//remove horse from where it was
 			Console.CursorLeft = left;
 			Console.CursorTop = lane.StartTop;
 			Console.BackgroundColor = lane.Color;
 			Console.Write(' ');
 
 
-			//update left
+			//update left - min used to not go past the end of the lane
 			left = Math.Min(left + stride, lane.StartLeft + lane.Length);
 
 

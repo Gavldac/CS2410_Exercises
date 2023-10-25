@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleGUI
-build_property.ProjectDir = /Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/ConsoleGUI/
+build_property.ProjectDir = /home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/

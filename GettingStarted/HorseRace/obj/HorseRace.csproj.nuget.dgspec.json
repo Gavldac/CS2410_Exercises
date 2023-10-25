@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/HorseRace.csproj": {}
+    "/home/gavldac/git/CS2410_Exercises/GettingStarted/HorseRace/HorseRace.csproj": {}
   },
   "projects": {
-    "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/HorseRace.csproj": {
+    "/home/gavldac/git/CS2410_Exercises/GettingStarted/HorseRace/HorseRace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/HorseRace.csproj",
+        "projectUniqueName": "/home/gavldac/git/CS2410_Exercises/GettingStarted/HorseRace/HorseRace.csproj",
         "projectName": "HorseRace",
-        "projectPath": "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/HorseRace.csproj",
-        "packagesPath": "/Users/gavldac/.nuget/packages/",
-        "outputPath": "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/HorseRace/obj/",
+        "projectPath": "/home/gavldac/git/CS2410_Exercises/GettingStarted/HorseRace/HorseRace.csproj",
+        "packagesPath": "/home/gavldac/.nuget/packages/",
+        "outputPath": "/home/gavldac/git/CS2410_Exercises/GettingStarted/HorseRace/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/gavldac/.nuget/NuGet/NuGet.Config"
+          "/home/gavldac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

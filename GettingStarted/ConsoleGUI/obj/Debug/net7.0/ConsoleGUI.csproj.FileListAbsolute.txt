@@ -13,3 +13,17 @@
 /Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/ConsoleGUI/obj/Debug/net7.0/ConsoleGUI.pdb
 /Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/ConsoleGUI/obj/Debug/net7.0/ConsoleGUI.genruntimeconfig.cache
 /Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/ConsoleGUI/obj/Debug/net7.0/ref/ConsoleGUI.dll
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/bin/Debug/net7.0/ConsoleGUI
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/bin/Debug/net7.0/ConsoleGUI.deps.json
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/bin/Debug/net7.0/ConsoleGUI.runtimeconfig.json
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/bin/Debug/net7.0/ConsoleGUI.dll
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/bin/Debug/net7.0/ConsoleGUI.pdb
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/obj/Debug/net7.0/ConsoleGUI.GeneratedMSBuildEditorConfig.editorconfig
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/obj/Debug/net7.0/ConsoleGUI.AssemblyInfoInputs.cache
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/obj/Debug/net7.0/ConsoleGUI.AssemblyInfo.cs
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/obj/Debug/net7.0/ConsoleGUI.csproj.CoreCompileInputs.cache
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/obj/Debug/net7.0/ConsoleGUI.dll
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/obj/Debug/net7.0/refint/ConsoleGUI.dll
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/obj/Debug/net7.0/ConsoleGUI.pdb
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/obj/Debug/net7.0/ConsoleGUI.genruntimeconfig.cache
+/home/gavldac/git/CS2410_Exercises/GettingStarted/ConsoleGUI/obj/Debug/net7.0/ref/ConsoleGUI.dll

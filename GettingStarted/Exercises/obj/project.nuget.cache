@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VQvTju3l+YayyQZx24tZd/5ARBCbuimBhhrFgBAGWSIKnH4UEt5XktjSJDwdM/LbusTr1UJa1AJALfbm+Py2BQ==",
+  "dgSpecHash": "A28EzAycaV1TWUNfDe3UwALUL+hBqtBE/y201Wgzgmr/tA1NZmRLKu+iUCgAP5L8sl6m4+2gEeEBb1CVkQoEVg==",
   "success": true,
-  "projectFilePath": "/Users/gavldac/GitHub/CS2410_Exercises/GettingStarted/Exercises/GettingStarted.csproj",
+  "projectFilePath": "/home/gavldac/git/CS2410_Exercises/GettingStarted/Exercises/GettingStarted.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
